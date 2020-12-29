@@ -1,4 +1,4 @@
-# C++ Program
+# Ham Radio Exam for the Command-Line. 
 
 ## About
 
@@ -42,7 +42,7 @@ meson install -C builddir
 And finally we run this cool application:
 
 ```console
-prog
+ham-radio
 ```
 
 ## Contact the developer
