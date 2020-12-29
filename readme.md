@@ -4,14 +4,16 @@
 
 * * *
 
-Please add relevant information about your application.
+Ham Radio is a fun little quiz that helps you prepare for the written
+exam. Gain the ability to prepare for the power of Ham Radio from within
+the command-line.
 
 ## Tooling information
 
 * * *
 
-Targeted audience we are building for is MacOSX and Linux users. This project uses
-[Meson](https://mesonbuild.com/) `0.56.0` and newer.
+Targeted audience we are building for is MacOSX and Linux users. This
+project uses [Meson](https://mesonbuild.com/) `0.56.0` and newer.
 
 ## Setup, Compile and Install
 
