@@ -1,4 +1,4 @@
-# Ham Radio Exam for the Command-Line. 
+# Ham Radio Exam for the Command-Line. 
 
 ## About
 
