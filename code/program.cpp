@@ -6,6 +6,9 @@
 #include "program.hpp"
 #include <iostream>
 #include <cstdlib>
+#include <nlohmann/json.hpp>
+
+using json = nlohmann::json;
 
 //
 // Greet the user
